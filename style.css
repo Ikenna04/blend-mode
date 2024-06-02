@@ -1,0 +1,7 @@
+body {
+	background-image: url(img/2.jpg);
+	margin-right: auto;
+	background-size: cover;
+	background-color: #8db5ed;
+	background-blend-mode: luminosity;
+}
